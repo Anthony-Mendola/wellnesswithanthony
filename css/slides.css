@@ -2811,6 +2811,7 @@ html:not(.page-loaded) .slides.animated.scroll .slide {
 .sidebar .mainMenu li a {
   font-size: 24px;
   font-weight: 600;
+
 }
 .sidebar .mainMenu.small li a {
   font-size: 22px;
