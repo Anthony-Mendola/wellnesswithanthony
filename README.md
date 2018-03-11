@@ -1,2 +1,3 @@
-# wellnesswithanthony
-Building a website for my passion of helping people as a certified Integrative Nutrition Health Coach.
+Source code for my health & wellness website, wellnesswithanthony.com
+
+Website was built using HTML, CSS, & javascript.
